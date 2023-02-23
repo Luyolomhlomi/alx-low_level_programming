@@ -10,7 +10,7 @@ int main(void)
 
 	sum = 0;
 
-	for (a = 0; a < 10; a++)
+	for (a = 0; a < 1024; a++)
 	{
 		if ((a % 3 == 0) || (a % 5 == 0))
 		{
